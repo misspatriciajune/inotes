@@ -1,0 +1,35 @@
+
+iNotes(notekeeper) for ICS-OS - User Manual
+--------------------------------
+
+Description:
+This application allows the user to manage his/her to do list
+	by posting all the reminders at once. A file, containing
+	the reminders created by the user, will be read once the
+	application is loaded. Once the entire file was read, the
+	application will open. Then, the user can select among the
+	options.
+
+Guide in Using iNotes:
+1. Add Note
+	On the title page, the user must press 'A' to create a new note.
+	The user must enter the title of the note first(must not exceed
+	50 characters), then, enter the content of the note (must not
+	exceed 250 characters). The user may save the note or discard it.
+2. View a Note
+	On the title page, the user must press 'V' to create a new note.
+	The list of note titles will be displayed; users may add a new note
+	(press 'A'), scroll down and browse the titles (press 'S'), or go
+	back to the title page (press 'B'). See #1 for adding new notes.
+	Users may view the contents of the notes by pressing 'enter' on the
+	highlighted title. Then, the user may opt to edit the title (press '1'),
+	edit the content (press '2'), delete the note (press '3') or go back
+	(press '4'). To edit either the note title or content, the user must
+	enter a new one to change it. When the delete option was chosen, it
+	will automatically delete the selected note.
+3. Display Notes
+	On the title page, the user must press 'S' to create a new note. All the
+	note titles and their corresponding contents will be displayed by the
+	application. the user may press any key to proceed.
+4. Quit
+	On the title page, the user must press 'Q' to exit the application.

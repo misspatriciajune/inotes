@@ -1,0 +1,18 @@
+iNotes(notekeeper) for ICS-OS
+--------------------------------
+
+1. Extract from within ics-os source dir.
+
+   $tar xzvf inotes.tar.gz
+   $cd contrib/inotes
+   $make
+   $make install
+
+2. Perform the steps to install ics-os.
+   $cd ../..
+   $sudo make install 
+
+3. Run inotes.exe inside ics-os
+
+Enjoy!
+
